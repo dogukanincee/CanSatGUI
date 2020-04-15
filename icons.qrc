@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon/grifon.ico</file>
+    </qresource>
+</RCC>

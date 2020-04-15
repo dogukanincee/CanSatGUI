@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>CanSat GRIFON.png</file>
+    </qresource>
+</RCC>
